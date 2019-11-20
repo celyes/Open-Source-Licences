@@ -13,5 +13,3 @@
 |BSD 2 |Free BSD License|
 |BSD 3 |Modified BSD License| 
 |MPL 2.0|Mozilla Public License 2.0|
-
-More licenses will be added constantly.
